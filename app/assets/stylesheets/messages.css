@@ -80,6 +80,7 @@
   height: calc(100vh - 100px - 90px);
   background-color: #fafafa;
   padding: 46px 40px 0;
+  overflow: scroll;
 }
 
 .messages_index{
